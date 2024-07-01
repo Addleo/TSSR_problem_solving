@@ -6,6 +6,6 @@ Un guide de résolution de problèmes pour les techniciens réseaux
 | Présentation  |   |
 | Session  |   |
 | Transport  |   |
-| Réseau  |   |
+| Réseau  | <ul><li>tracert</li><li>nslookup</li><li>tracert</li><li>ping</li><li>ipconfig</li></ul>  |
 | Liaison  |   |
 | Physique  |   |
